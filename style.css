@@ -1,0 +1,30 @@
+*{line-height: 2%;
+ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+header{
+    background-color: gray;
+    height: 120px;
+    display: flex;
+    justify-content: space-between;
+}
+body{
+    width: 90%;
+margin: 0 auto;
+}
+#logo{
+    height: 60px;
+    width: 300px;
+    margin: auto 0;
+}
+nav ul li{
+    list-style: none;
+    
+    display: inline-block;
+    margin: 0 auto;
+    padding: 2%;
+
+}
+a{text-decoration: none;}
+nav{text-align: center;}
+
+
+    
